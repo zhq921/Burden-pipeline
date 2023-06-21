@@ -1,6 +1,6 @@
 # Gene-based rare variant burden test
 
-This repository hosts the code and related data used for gene-based rare variant burden test。
+This repository hosts the code and related data used for gene-based rare variant burden test.
 
 ## Repository Structure
 
